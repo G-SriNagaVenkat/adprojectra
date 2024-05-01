@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/adprojectra/static/css/main.bef4e3fc.css",
+    "main.js": "/adprojectra/static/js/main.b4edeed2.js",
+    "static/js/453.996a6c09.chunk.js": "/adprojectra/static/js/453.996a6c09.chunk.js",
+    "static/media/back.jpg": "/adprojectra/static/media/back.051d1d37458175c3f5fd.jpg",
+    "static/media/placeholder.png": "/adprojectra/static/media/placeholder.5b205cc7aa0d0587a00f.png",
+    "index.html": "/adprojectra/index.html",
+    "main.bef4e3fc.css.map": "/adprojectra/static/css/main.bef4e3fc.css.map",
+    "main.b4edeed2.js.map": "/adprojectra/static/js/main.b4edeed2.js.map",
+    "453.996a6c09.chunk.js.map": "/adprojectra/static/js/453.996a6c09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef4e3fc.css",
+    "static/js/main.b4edeed2.js"
+  ]
+}
